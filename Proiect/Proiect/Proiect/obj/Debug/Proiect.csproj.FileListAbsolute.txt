@@ -1,0 +1,16 @@
+c:\users\andreea\documents\visual studio 2015\Projects\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Andreea\documents\visual studio 2015\Projects\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\Andreea\documents\visual studio 2015\Projects\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Andreea\documents\visual studio 2015\Projects\Proiect\Proiect\obj\Debug\Proiect.csprojResolveAssemblyReference.cache
+C:\Users\Andreea\documents\visual studio 2015\Projects\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Andreea\documents\visual studio 2015\Projects\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.Cache
+C:\Users\Andreea\documents\visual studio 2015\Projects\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\Andreea\documents\visual studio 2015\Projects\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Andreea\documents\visual studio 2015\Projects\Proiect\Proiect\obj\Debug\Proiect.Form5.resources
+C:\Users\Andreea\documents\visual studio 2015\Projects\Proiect\Proiect\obj\Debug\Proiect.Centru_inchirieri_biciclete.resources
+C:\Users\Andreea\documents\visual studio 2015\Projects\Proiect\Proiect\obj\Debug\Proiect.Adaugare_bicicleta.resources
+C:\Users\Andreea\documents\visual studio 2015\Projects\Proiect\Proiect\obj\Debug\Proiect.Adaugare_angajat.resources
+C:\Users\Andreea\documents\visual studio 2015\Projects\Proiect\Proiect\obj\Debug\Proiect.Actualizare_angajat.resources
+C:\Users\Andreea\documents\visual studio 2015\Projects\Proiect\Proiect\obj\Debug\Proiect.Actualizare_bicicleta.resources
+C:\Users\Andreea\documents\visual studio 2015\Projects\Proiect\Proiect\obj\Debug\Proiect.Actualizare_sediu.resources
+C:\Users\Andreea\documents\visual studio 2015\Projects\Proiect\Proiect\obj\Debug\Proiect.Actualizare_service.resources
